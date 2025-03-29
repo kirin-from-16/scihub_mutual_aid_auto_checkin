@@ -1,5 +1,12 @@
 # Automated Script Scheduling Guide
 
+## Edit .env file with your credential
+
+```
+SMARTQUANT_USERNAME=yourusername
+SMARTQUANT_PASSWORD=password
+```
+
 ## Edit the autorun.bat
 
 Change the path to Anaconda scripts on your computer and the path to scihub_mutual_aid_auto_checkin
