@@ -1,4 +1,4 @@
-# Automated Script Scheduling Guide
+# Automated Scihub mutual aid checkin script 
 
 ## Edit .env file with your credential
 
