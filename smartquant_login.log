@@ -1,0 +1,10 @@
+2026-06-21 01:28:51,774 - INFO - WebDriver set up successfully
+2026-06-21 01:28:51,774 - INFO - Starting auto check-in
+2026-06-21 01:28:51,774 - INFO - Navigating to https://www.smartquantai.com/
+2026-06-21 01:28:59,918 - INFO - Clicking Sign in button
+2026-06-21 01:29:03,356 - INFO - Entering username
+2026-06-21 01:29:05,384 - INFO - Entering password
+2026-06-21 01:29:07,423 - INFO - Clicking login button
+2026-06-21 01:29:13,578 - INFO - Login successful
+2026-06-21 01:29:13,588 - INFO - Already checked in today
+2026-06-21 01:29:13,588 - INFO - Auto check-in completed successfully
