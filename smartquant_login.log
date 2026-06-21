@@ -8,3 +8,15 @@
 2026-06-21 01:29:13,578 - INFO - Login successful
 2026-06-21 01:29:13,588 - INFO - Already checked in today
 2026-06-21 01:29:13,588 - INFO - Auto check-in completed successfully
+2026-06-21 09:03:13,806 - INFO - WebDriver set up successfully
+2026-06-21 09:03:13,806 - INFO - Starting auto check-in
+2026-06-21 09:03:13,807 - INFO - Navigating to https://www.smartquantai.com/
+2026-06-21 09:03:35,636 - INFO - Clicking Sign in button
+2026-06-21 09:03:39,652 - INFO - Entering username
+2026-06-21 09:03:41,679 - INFO - Entering password
+2026-06-21 09:03:43,711 - INFO - Clicking login button
+2026-06-21 09:04:01,699 - INFO - Login successful
+2026-06-21 09:04:01,708 - INFO - Clicking daily check-in link
+2026-06-21 09:04:01,711 - INFO - Opening check-in URL: https://www.pidantuan.com/plugin.php?id=are_sign:getaward&typeid=1
+2026-06-21 09:04:06,080 - INFO - Check-in successful (yqd.png detected)
+2026-06-21 09:04:06,080 - INFO - Auto check-in completed successfully

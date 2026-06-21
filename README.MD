@@ -88,9 +88,7 @@ echo Done checking in.
 - Go to the **Triggers** tab and click **New**
 - Select **Daily** (or choose another schedule that fits your needs)
 - Set the start time (e.g., 8:00 AM)
-- Under Advanced settings, you can:
-  - Set a delay (e.g., "Delay task for 5 minutes")
-  - Set repetition if needed
+- Tick on "Enabled" under Advanced settings
 - Click **OK** to save the trigger
 
 ### 5. Configure Actions
